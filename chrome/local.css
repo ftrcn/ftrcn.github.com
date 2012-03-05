@@ -9,11 +9,7 @@ layout: nil
  */
 body {
 
-background-color: purple;
-
-/*background-repeat: no-repeat;*/
-background-attachment: fixed
-
+background-color: red;
 }
 a.deneme{
 position:absolute; top:262px;left:450px}
