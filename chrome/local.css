@@ -9,13 +9,10 @@ layout: nil
  */
 body {
 
-background-color: none;
-background-image:url('arka.jpg');
+background-color: purple;
+
 /*background-repeat: no-repeat;*/
 background-attachment: fixed
-
-}
-background-color: purple;
 
 }
 a.deneme{
