@@ -1,6 +1,6 @@
 ---
 layout: post
-title: deneme
+title: Ruby On Rails (RoR) Nedir?
 ---
 Bu programlama dilini bilmeyenlere (benim gibi) kısaca Ruby’yi ve Ruby On Rails’ı anlatmak istiyorum. Merak etmeyin tarihçesine veya işimize yaramayacak olan noktalara değinmeyeceğim. Amacım sizi sıkmadan Ruby hakkında muhabbet etmek. Sanırım ancak böyle sevdirebilirim bu dili :)
 
