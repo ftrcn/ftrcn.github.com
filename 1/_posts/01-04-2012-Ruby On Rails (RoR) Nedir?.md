@@ -1,0 +1,15 @@
+---
+layout: post
+title: deneme
+---
+Bu programlama dilini bilmeyenlere (benim gibi) kısaca Ruby’yi ve Ruby On Rails’ı anlatmak istiyorum. Merak etmeyin tarihçesine veya işimize yaramayacak olan noktalara değinmeyeceğim. Amacım sizi sıkmadan Ruby hakkında muhabbet etmek. Sanırım ancak böyle sevdirebilirim bu dili :)
+
+
+Ruby nesne tabanlı bir programlama dili olup oldukça sade ve kısa bir sözdizimine (syntax) sahiptir. Zaten Ruby’nin temelinde bu sadelik ve kısalık söz konusudur. Karmaşık kodlar yerine gelişmiş uygulamaları kısa yoldan gerçekleştirebilir.
+
+Rails web üzerinde veritabanına dayanan çalışmaları gerçekletirmeye yarayan bir framework(Türkçe’si TDK‘da yok)
+
+Peki neden diğer programlama dilleri yerine Ruby On Rails’i tercih edeyim diyecek olursanız, bunun cevabı Ruby’nin sözdizimi. Düşünsenize diğer dillerle 50 satırda gerçekleştireceğiniz işlemleri bu dil sayesinde 10 satıra indirgeyebiliyorsunuz. Ayrıca bu 10 satır diğerlerine göre çok daha sade ve basit oluyor.
+
+
+
