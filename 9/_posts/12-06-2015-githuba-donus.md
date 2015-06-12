@@ -1,6 +1,6 @@
 ---
 layout: post
-title: merhaba
+title: Githuba Dönüş
 ---
 
 Deneme yazısıdır.
